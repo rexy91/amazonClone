@@ -9,8 +9,9 @@ function App() {
         <header className='header'>
             <div className='brand'>
                 <button>#9776</button>
-                <
+                <Link to ='/'>Amonja</Link>
             </div>
+            
         </header>
     </div>
   );
