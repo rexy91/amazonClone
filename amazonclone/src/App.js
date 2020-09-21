@@ -1,11 +1,17 @@
 import React from 'react';
+import {BrowserRouter, Route, Link} from 'react-router-dom'
 import './App.css';
 
 function App() {
 
   return (
-    <div className="App">
-      
+    <div className="grid-container">
+        <header className='header'>
+            <div className='brand'>
+                <button>#9776</button>
+                <
+            </div>
+        </header>
     </div>
   );
 }
