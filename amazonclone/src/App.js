@@ -11,6 +11,9 @@ function App() {
                 <button>#9776</button>
                 <Link to ='/'>Amonja</Link>
             </div>
+            <div className='header-links'>
+              <a href='cart.html'>Cart</a>
+            </div>
             
         </header>
     </div>
